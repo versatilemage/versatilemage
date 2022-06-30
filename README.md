@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**versatilemage/versatilemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I am Ms</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>🌱Budding web developer</div>
+<br>
+<div>💻 I’m currently learning React-Js</div>
+<br>
+<div>👉 My mantra: A jack of all trades is a master of none, but oftentimes better than a master of one</div>
+<br>
+<div>👉 Otaku with a love for Manhwa</div>
+<br>
+<div>🏠 Resides in Chennai, Tamilnadu, India</div>
+<br>
