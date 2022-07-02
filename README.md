@@ -4,7 +4,7 @@
 
 <div>🌱Budding web developer</div>
 <br>
-<div>💻 I’m currently learning React-Js</div>
+<div>💻 Currently learning React-Js</div>
 <br>
 <div>👉 My mantra: A jack of all trades is a master of none, but oftentimes better than a master of one</div>
 <br>
