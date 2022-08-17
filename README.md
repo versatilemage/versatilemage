@@ -13,4 +13,4 @@
 <div>🏠 Resides in Chennai, Tamilnadu, India</div>
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=versatilemage" alt="no images found">
+<img src="https://github-readme-stats.vercel.app/api?username=versatilemage&show_icons=true&locale=en" alt="no images found">
