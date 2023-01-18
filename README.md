@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<h3>I am Ms</h3>
+<h3>I am MS</h3>
 
-<div>🌱Budding web developer</div>
+<div>💻Fullstack web developer</div>
 <br>
-<div>💻 Currently learning Mongodb </div>
+<div>🌱 Currently learning React Native </div>
 <br>
 <div>👉 My mantra: A jack of all trades is a master of none, but oftentimes better than a master of one</div>
 <br>
