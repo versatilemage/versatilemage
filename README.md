@@ -2,7 +2,7 @@
 
 <h3>I am MS</h3>
 
-<div>💻Fullstack web developer</div>
+<div>💻 Fullstack web developer</div>
 <br>
 <div>🌱 Currently learning React Native </div>
 <br>
