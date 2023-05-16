@@ -6,7 +6,7 @@
 <br>
 <div>🌱 Currently learning Next JS </div>
 <br>
-<div>👉 My mantra: A jack of all trades is a master of none, but oftentimes better than a master of one</div>
+<div>👉 My mantra: A jack of all trades is a master of none, but often times better than a master of one</div>
 <br>
 <div>👉 Otaku with a love for Manhwa</div>
 <br>
