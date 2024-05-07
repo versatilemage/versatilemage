@@ -4,7 +4,7 @@
 
 <div>💻 Fullstack web developer</div>
 <br>
-<div>🌱 Currently learning Nest JS </div>
+<div>🌱 Currently learning Nest JS and exploring AI</div>
 <br>
 <div>👉 My mantra: A jack of all trades is a master of none, but often times better than a master of one</div>
 <br>
